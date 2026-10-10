@@ -36,5 +36,4 @@ Resultado después del cambio: promedio 77.80, cuatro aprobados y un reprobado.
 python pruebas.py
 ```
 
-## Publicación en GitHub
-Crear un repositorio llamado `proyecto-arreglos`, subir `main.py`, `pruebas.py` y `README.md`, y comprobar que sea accesible al evaluador. Copiar la URL real en el apartado Repositorio del proyecto del PDF. La publicación queda pendiente; este paquete no contiene un enlace inventado.
+
